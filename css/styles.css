@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 25px;
+	font-family: century gothic;
+}
+
+
+
+.logo {
+	margin: 20px 40%;
+	width: 150px;
+}
+
+.title {
+	text-align: center;
+}
